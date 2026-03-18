@@ -46,80 +46,33 @@
   <img src="https://komarev.com/ghpvc/?username=rspaul11&label=Total+Views&color=1F6FEB&style=for-the-badge"/>
 </div>
 
-<br/>
-
 ## 👨‍💻 About Me
 
 <table width="100%">
 <tr>
 <td width="54%" valign="top">
 
-```java
-/**
- * ╔══════════════════════════════════════════╗
- * ║     Rajsekhar Paul  ·  Dev Profile       ║
- * ║     Full Stack Web Developer             ║
- * ╚══════════════════════════════════════════╝
- *
- * @role     Full Stack Web Developer
- * @email    rspaul1104@gmail.com
- * @phone    +91 8144126581
- * @location Balasore, Odisha, India
- * @status   Open to Work
- */
-public class RajsekharPaul extends FullStackDev {
+### Hello! I'm Rajsekhar Paul 🚀
 
-    Education education = new Education(
-        "Satyasai Engineering College (BPUT)",
-        "B.Tech — Computer Science 2022–2026",
-        8.23  // CGPA
-    );
+I am an aspiring **Full Stack Developer** and tech enthusiast with a passion for building innovative web solutions. Skilled in **HTML, CSS, JavaScript, React, and Database Management**, I love transforming ideas into fully functional, user-friendly applications. 
 
-    Experience[] experience = {
-        new Experience(
-            "TAP Academy",
-            "Java Full Stack Trainee",
-            "Feb 2026 – Present",
-            new String[]{
-                "Spring Boot", "Hibernate",
-                "REST API", "MySQL"
-            }
-        ),
-        new Experience(
-            "Internship Studio",
-            "Web Development Intern",
-            "2025",
-            new String[]{
-                "React", "JavaScript",
-                "Bootstrap", "REST API"
-            }
-        )
-    };
+Beyond coding, I’m a **problem solver**, a **continuous learner**, and a **creative thinker** who enjoys tackling challenging projects and bringing them to life. 
 
-    Achievement[] wins = {
-        new Achievement("TechSprint 2025", "Rank #1 of All Teams"),
-        new Achievement("Fest Lead 2025",  "+30% Revenue Growth"),
-        new Achievement("Self-Taught",      "100+ Projects Shipped")
-    };
-
-    @Override
-    public String currentFocus() {
-        return "System Design + Open Source";
-    }
-}
-```
+✨ **My Current Focus:**
+- 🔍 Exploring **Advanced Web Development** and modern system architectures.
+- 🤖 Building **AI-powered applications** to solve real-world problems.
+- 💡 Venturing into **Entrepreneurship**, aiming to make technology accessible and impactful for everyone.
 
 </td>
 <td width="46%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="Developer" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="330" alt="Developer Workspace" />
   <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="330" alt="Tech" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="330" alt="Tech Logic Animation" />
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 
 ## 📊 GitHub Stats
 
