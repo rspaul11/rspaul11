@@ -1,9 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              🌌 SYSTEM INITIALIZATION — HEADER                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2666,65:1F6FEB,100:0D1117&height=300&section=header&text=Rajsekhar%20Paul&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Engineer%20%7C%20System%20Architect%20%7C%20Java%20Expert&descAlignY=63&descAlign=50&descSize=22&descColor=58A6FF&stroke=58A6FF&strokeWidth=2" width="100%" alt="Header Banner"/>
-</div>
 
 <!-- DYNAMIC TYPING STATUS -->
 <div align="center">
